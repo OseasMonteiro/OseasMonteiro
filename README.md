@@ -50,7 +50,7 @@ Combino **rigor analítico da docência** com **habilidades técnicas em dados**
 |---------|-----------|-------------|
 | [📊 EDA Enem](./eda-enem) | Análise exploratória dos microdados do ENEM com insights regionais | Python, Pandas, Seaborn |
 | [🏠 Previsão de Preços](./ml-house-prices) | Modelo de regressão para previsão de imóveis | Scikit-learn, XGBoost |
-| [🧠 Churn Analysis](./churn-analysis) | Identificação de clientes em risco de cancelamento | SQL, Python, ML |
+| [🧠 Churn Analysis](OseasMonteiro/Churn_Analysis) | Identificação de clientes em risco de cancelamento | SQL, Python, ML |
 | [📚 Dashboard Educacional](./dashboard-escolar) | Visualização de desempenho de alunos | Python, Plotly, Streamlit |
 | [🤖 Intro IA Educacional](./ia-para-professores) | Material didático sobre IA para professores e alunos | Jupyter Notebooks |
 
